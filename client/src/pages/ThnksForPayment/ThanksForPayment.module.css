@@ -1,0 +1,28 @@
+.generalBlock {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 5% auto;
+    text-align: center;
+}
+.thanks {
+    margin-top: 5%;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.question {
+    text-align: center;
+    margin-top: 3%;
+    font-size: 20px;
+}
+.toOneString {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 40%;
+    margin: 5% auto;
+}
+.btn {
+    width: 35%;
+}

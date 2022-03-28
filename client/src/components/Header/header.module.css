@@ -1,0 +1,9 @@
+.headerBlock {
+    background-color: #9850ad;
+}
+.navBlock {
+    height: 50px;
+    padding-top: 1%;
+    display: grid;
+    grid-template-columns: 10px 10% 1fr 200px 200px 10px;
+}
