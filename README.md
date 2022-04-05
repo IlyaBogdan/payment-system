@@ -1,3 +1,3 @@
 # Payment system
 
-Application on Reacr and ExpressJS
+Application on React and ExpressJS
